@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MikheevVitaliy.github.io/goit-react-hw-01-components/static/css/main.4779dabd.css",
-    "main.js": "/MikheevVitaliy.github.io/goit-react-hw-01-components/static/js/main.203d7c33.js",
-    "index.html": "/MikheevVitaliy.github.io/goit-react-hw-01-components/index.html",
-    "main.4779dabd.css.map": "/MikheevVitaliy.github.io/goit-react-hw-01-components/static/css/main.4779dabd.css.map",
-    "main.203d7c33.js.map": "/MikheevVitaliy.github.io/goit-react-hw-01-components/static/js/main.203d7c33.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.4779dabd.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.043c8630.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.4779dabd.css.map": "/goit-react-hw-01-components/static/css/main.4779dabd.css.map",
+    "main.043c8630.js.map": "/goit-react-hw-01-components/static/js/main.043c8630.js.map"
   },
   "entrypoints": [
     "static/css/main.4779dabd.css",
-    "static/js/main.203d7c33.js"
+    "static/js/main.043c8630.js"
   ]
 }
